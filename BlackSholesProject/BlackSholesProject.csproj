@@ -7,12 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="BootstrapBlazor" Version="5.0.33" />
     <PackageReference Include="BouncyCastle" Version="1.8.9" />
+    <PackageReference Include="ChartJs.Blazor" Version="1.1.0" />
     <PackageReference Include="ControlzEx" Version="5.0.0" />
     <PackageReference Include="EntityFramework" Version="6.4.4" />
     <PackageReference Include="iTextSharp" Version="5.5.13.2" />
     <PackageReference Include="MahApps.Metro" Version="2.4.5" />
     <PackageReference Include="MahApps.Metro.IconPacks" Version="4.8.0" />
+    <PackageReference Include="MatBlazor" Version="2.8.0" />
     <PackageReference Include="NLog" Version="4.7.10" />
     <PackageReference Include="NPOI" Version="2.5.3" />
     <PackageReference Include="SharpZipLib" Version="1.3.2" />
